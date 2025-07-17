@@ -3,14 +3,14 @@
     "name": "Talk's ODS",
     "id":"talks_ods_izaias",
     "description":" Explore os objetivos de desenvolvimento sustentável por meio de uma conversa!",
-    "slug": "talks_ods_izaias",
+    "slug": "izaias-ODS",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/ods_logo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/ods_logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,14 +19,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ods_logo.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.izaiasvalentim.izaiasODS"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/ods_logo.png"
     },
     "extra": {
       "eas": {
