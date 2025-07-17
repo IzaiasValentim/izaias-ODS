@@ -1,10 +1,12 @@
 {
   "expo": {
-    "name": "izaias-ODS",
-    "slug": "izaias-ODS",
+    "name": "Talk's ODS",
+    "id":"talks_ods_izaias",
+    "description":" Explore os objetivos de desenvolvimento sustentável por meio de uma conversa!",
+    "slug": "talks_ods_izaias",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ods_logo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
